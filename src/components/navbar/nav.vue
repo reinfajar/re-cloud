@@ -16,7 +16,7 @@
             <router-link to="/skill" class="mr-5 text-white hover:text-indigo-200">Skill</router-link>
           </li>
           <li class="nav-item">
-            <router-link to="/" class="mr-5 text-white hover:text-indigo-200">Project</router-link>
+            <router-link to="/project" class="mr-5 text-white hover:text-indigo-200">Project</router-link>
           </li>
           <li class="nav-item">
             <router-link to="/" class="mr-5 text-white hover:text-indigo-200">Experience</router-link>
