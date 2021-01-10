@@ -86,12 +86,12 @@
                   </div>
                   <div class="text-right">
                     <span class="text-xs font-semibold inline-block text-indigo-600">
-                      30%
+                      60%
                     </span>
                   </div>
                 </div>
                 <div class="overflow-hidden h-2 mb-4 text-xs flex rounded bg-indigo-200">
-                  <div style="width:30%" class="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-indigo-500"></div>
+                  <div style="width:60%" class="shadow-none flex flex-col text-center whitespace-nowrap text-white justify-center bg-indigo-500"></div>
                 </div>
               </div>
             </div>
