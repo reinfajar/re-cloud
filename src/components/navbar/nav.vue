@@ -2,7 +2,7 @@
   <nav class="relative flex flex-wrap items-center justify-between px-2 py-3 navbar-expand-lg bg-blue-800 mb-3">
     <div class="container px-4 mx-auto flex flex-wrap items-center justify-between">
       <div class="w-full relative flex justify-between lg:w-auto  px-4 lg:static lg:block lg:justify-start">
-        <router-link to="/" class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap uppercase text-white flex items-center">
+        <router-link to="/" class="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-no-wrap text-white flex items-center">
           <img class="object-cover object-center rounded-full w-8 h-8" alt="hero" src="@/assets/images/profile.jpg">
           <span class="ml-3 text-xl">ReinFajar</span>
         </router-link>
